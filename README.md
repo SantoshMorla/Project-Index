@@ -1,2 +1,2 @@
 # Project-Index
-this code is use for django  project
+this code is use for django  project.
